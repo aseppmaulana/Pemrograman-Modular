@@ -35,7 +35,7 @@ return a+b;
 // proses kurang
 int proseskurang () {
 int hasil;
-hasil : a-b;
+hasil = a-b;
 return hasil;
 }
 
